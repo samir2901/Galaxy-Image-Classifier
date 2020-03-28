@@ -15,5 +15,5 @@ Modules used are:
 ![THE GUI](https://github.com/samir2901/Galaxy-Image-Classifier/blob/master/screenshots/screenshot.png?raw=true)
 
 
-This project is inspired from (this repo)[https://github.com/rhnvrm/galaxy-image-classifier-tensorflow.git]
+This project is inspired from [this repo](https://github.com/rhnvrm/galaxy-image-classifier-tensorflow.git)
 
