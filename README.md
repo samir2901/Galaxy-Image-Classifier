@@ -11,6 +11,7 @@ Modules used are:
 - matplotlib
 - numpy
 - opencv-python
+- pyqt5
 
 ![THE GUI](https://github.com/samir2901/Galaxy-Image-Classifier/blob/master/screenshots/screenshot.png?raw=true)
 
