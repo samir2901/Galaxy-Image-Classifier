@@ -12,5 +12,5 @@ Modules used are:
 - numpy
 - opencv-python
 
-
+[THE GUI](https://github.com/samir2901/Galaxy-Image-Classifier/blob/master/screenshots/screenshot.png?raw=true)
 
