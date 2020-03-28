@@ -36,9 +36,9 @@
    <widget class="QLabel" name="label">
     <property name="geometry">
      <rect>
-      <x>120</x>
+      <x>40</x>
       <y>260</y>
-      <width>221</width>
+      <width>361</width>
       <height>41</height>
      </rect>
     </property>
@@ -49,7 +49,7 @@
      </font>
     </property>
     <property name="text">
-     <string>Prediction:</string>
+     <string>PREDICTION:</string>
     </property>
    </widget>
    <widget class="QPushButton" name="browseImageBtn">
